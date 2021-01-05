@@ -3665,7 +3665,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email a {
-    font-size: 7.6rem;
+    font-size: 5.6rem;
   }
 }
 
@@ -3680,7 +3680,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email a {
-    font-size: 7.2rem;
+    font-size: 6.2rem;
   }
 }
 
@@ -3690,7 +3690,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email a {
-    font-size: 6.2rem;
+    font-size: 5.2rem;
   }
 
   .contact-social {
@@ -3704,7 +3704,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email a {
-    font-size: 5.5rem;
+    font-size: 4rem;
   }
 
   .contact-social {
@@ -3718,7 +3718,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email a {
-    font-size: 3.8rem;
+    font-size: 3rem;
   }
 
   .contact-social {
@@ -3740,26 +3740,29 @@ html.no-csstransitions .home-content__main {
   .contact-social {
     font-size: 3rem;
   }
+  .contact-email a {
+    font-size: 2rem;
+  }
 }
 
 @media only screen and (max-width: 500px) {
   .contact-main {
-    font-size: 1.8rem;
+    font-size: 1rem;
   }
 
   .contact-email a {
-    font-size: 3rem;
+    font-size: 1rem;
   }
 }
 
 @media only screen and (max-width: 400px) {
   .contact-main {
-    font-size: 1.6rem;
+    font-size: 1rem;
     margin-top: 4.5rem;
   }
 
   .contact-email a {
-    font-size: 2.5rem;
+    font-size: 1rem;
   }
 
   .contact-social {
