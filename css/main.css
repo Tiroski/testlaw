@@ -2565,7 +2565,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 900px) {
   .home-content h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 
   .home-content h3 {
@@ -2579,7 +2579,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 800px) {
   .home-content h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 
   .home-content h3 {
@@ -2616,7 +2616,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 700px) {
   .home-content h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 
   .home-content h3 {
@@ -2639,7 +2639,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content h1 {
-    font-size: 9rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2672,7 +2672,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 500px) {
   .home-content h1 {
-    font-size: 7.5rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2686,7 +2686,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content h1 {
-    font-size: 6.5rem;
+    font-size: 3.5rem;
   }
 
   .home-content__main {
@@ -2714,7 +2714,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 350px) {
   .home-content h1 {
-    font-size: 6.2rem;
+    font-size: 3.2rem;
   }
 }
 
